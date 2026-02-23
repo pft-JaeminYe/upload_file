@@ -25,9 +25,6 @@ test-results/
 .pyc
 *.pyc
 
-.env
-*.env
-
 .DS_Store
 mcp-remote/
 
